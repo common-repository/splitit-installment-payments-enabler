@@ -1,0 +1,15 @@
+.column-billing_address .description .payment-title-checkout .paymentlogoWidthSrc {
+    width: 52px;
+    vertical-align: middle;
+}
+.column-billing_address .description .payment-title-checkout #tell-me-more .tell-me-more-image {
+    width: 12px;
+    vertical-align: middle;
+}
+span.payment-title-checkout img.paymentlogoWidthSrc {margin-left: 0 !important;float: none !important;vertical-align: middle; display: inline;width: 42px;}
+span.payment-title-checkout  .tell-me-more-image{ width: 12px;
+    margin-bottom: 3px;
+    margin-left: 6px;}
+span.payment-title-checkout { font-size: 13px; }
+span.payment-title-checkout #tell-me-more{ float:none !important; color:#6d6d6d;  box-shadow:none !important;display: inline-block;vertical-align: middle;}
+span.tell-me-more-image-wrapper { display:inline-block; width:12px; }

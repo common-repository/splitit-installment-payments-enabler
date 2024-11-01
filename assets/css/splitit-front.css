@@ -1,0 +1,49 @@
+.cart-subtotal .splitit-installment-price {
+    display: none !important;
+}
+.powered-by-splitit {
+    margin: 10px 0 0;
+    width: 100%;
+    text-align: center;
+}
+.woocommerce-checkout #payment .payment_method_paypal .about_paypal {
+    line-height: 28px !important; /*disabling PAYPAL line-height: 52px; as it pushes our tell me more down*/
+    padding: 14px 0 0;
+}
+#tell-me-more {
+    float: right;
+    text-decoration: none !important;
+}
+
+.splitit-installment-price-checkout #tell-me-more {
+    float:none !important; color:#000; box-shadow:none !important; width: 45px;
+    display: inline-block;
+}
+.logoWidthSrc{ height: 30px !important; display: inline-block !important; margin-bottom: -10px !important;}
+/*.woocommerce-checkout img.logoWidthSrc {   margin-left: 7px;}*/
+span.splitit-installment-price { font-size: 11px;   color: #000;}
+span.splitit-installment-price a{ color: #000;   text-decoration: : underline;}
+/*span.splitit-installment-price-checkout img{margin-left: 0px !important;}
+*/
+span.payment-title-checkout img.paymentlogoWidthSrc {margin-left: 0 !important;float: none !important;vertical-align: middle; display: inline;width: 62px; max-height: 2.618em !important;}
+span.payment-title-checkout  .tell-me-more-image{ width: 12px;
+    margin-bottom: 3px;
+    margin-left: 6px;}
+span.payment-title-checkout { font-size: 13px; }
+span.payment-title-checkout #tell-me-more{ float:none !important; color:#6d6d6d;  box-shadow:none !important;display: inline-block;vertical-align: middle;}
+span.splitit-installment-price-product #tell-me-more{ float: none; text-decoration: none !important; box-shadow:none !important;}
+.tell-me-more-image { float: none !important; vertical-align: middle; }
+.splitit-installment-price-checkout .tell-me-more-image{ width: 12px !important; }
+.splitit-installment-price-product .tell-me-more-image {width: 12px;margin-bottom:5px;}
+span.splitit-installment-price-checkout {    font-size: 15px !important;}
+span.splitit-installment-price-checkout img.logoWidthSrc{/* width:44px !important; */ -webkit-box-shadow:none; box-shadow: none;}
+.powered-by-splitit {display: none;}
+.woocommerce-order-received img.paymentlogoWidthSrc {
+    width: 62px;
+}
+.splitit-cj {
+    font-size: 11px;
+}
+.related .splitit-installment-price-product, .related #tell-me-more {display: none !important;}
+
+span.tell-me-more-image-wrapper { display:inline-block; width:12px; }
